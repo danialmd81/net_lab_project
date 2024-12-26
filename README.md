@@ -12,48 +12,40 @@ This network simulation project showcases various networking concepts and implem
 
 ![Network Topology](screenshots/network_topology.png)
 
-### Device Configurations
-
-[Add your device config screenshots here]
-
 ## 🔧 Components Used
 
 - Cisco Routers
 - Layer 3 Switches
 - End Devices
 - Various Network Cables
-- [Add more components you used]
+- Network Servers:
+  - DHCP Server
+  - Web Server
+  - DNS Server
+  - EMAIL Server
 
 ## 🎯 Features
 
-- VLAN Configuration
-- Inter-VLAN Routing
-- DHCP Implementation
-- Static Routing
-- [Add more features]
-
-## 💡 Implementation Details
-
-1. **Network Segmentation**
-   - Details about how you segmented the network
-   - VLANs used and their purposes
-
-2. **Routing Configuration**
-   - Description of routing protocols used
-   - Network addressing scheme
-
-3. **Security Measures**
-   - Access Control Lists
-   - Port Security
-   - [Add other security features]
+- [x] VLAN Configuration
+- [x] Inter-VLAN Routing
+- [x] DHCP Implementation
+- [x] Static Routing
+- [x] RIP Routing
+- [x] OSPF Routing
+- [x] EIGRP Routing
+- [x] HSRP Configuration
 
 ## 🎓 Learning Outcomes
 
-- Understanding of network topology design
-- VLAN configuration and management
-- Routing protocol implementation
-- Network security best practices
-- [Add more learning outcomes]
+- Understanding of network topology design and implementation
+- VLAN configuration, trunking, and management
+- Dynamic and static routing protocol implementation
+- Network security best practices and ACL configuration
+- Server deployment and configuration (DHCP, DNS, Web, Email)
+- High availability and redundancy setup using HSRP
+- Network troubleshooting and monitoring skills
+- Documentation and network diagram creation
+- Understanding of TCP/IP and OSI models in practice
 
 ## 🤝 Contributing
 
